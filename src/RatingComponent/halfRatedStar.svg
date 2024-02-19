@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 24 24">
+  <!-- Top half in gold -->
+  <path d="M12 2l2.4 7.2h7.6l-6 4.8 2.4 7.2-6-4.8-6 4.8 2.4-7.2-6-4.8h7.6z"
+    fill="yellow" stroke="black" stroke-width="1" />
+
+  <!-- Bottom half in silver -->
+  <path d="M12 2l2.4 7.2h7.6l-6 4.8 2.4 7.2-6-4.8-6"
+    fill="silver" stroke="black" stroke-width="1" />
+</svg>
