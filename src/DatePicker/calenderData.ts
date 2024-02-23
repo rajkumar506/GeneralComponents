@@ -17,13 +17,6 @@
         ],
       },
       {
-        date: '2024-01-02',
-        events: [
-          { title: 'Lunch', startTime: '12:30 PM', endTime: '1:30 PM' },
-          // ... other events for this day
-        ],
-      },
-      {
         date: '2024-01-03',
         events: [
           { title: 'Lunch', startTime: '12:30 PM', endTime: '1:30 PM' },
@@ -115,6 +108,13 @@
       },
       {
         date: '2024-01-16',
+        events: [
+          { title: 'Lunch', startTime: '12:30 PM', endTime: '1:30 PM' },
+          // ... other events for this day
+        ],
+      },
+      {
+        date: '2024-01-17',
         events: [
           { title: 'Lunch', startTime: '12:30 PM', endTime: '1:30 PM' },
           // ... other events for this day
