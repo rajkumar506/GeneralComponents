@@ -1,0 +1,11 @@
+.tic-tak-container{
+    width:135px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.tic-tak-block{
+    width:42px;
+    height: 42px;
+    border: 1px solid black;
+}
