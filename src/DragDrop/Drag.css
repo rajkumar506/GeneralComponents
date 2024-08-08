@@ -1,0 +1,16 @@
+.DragBoard{
+    width:500px;
+    height:500px;
+    position:relative;
+    background: rgb(246, 237, 237);
+    z-index: 999;
+    box-shadow: 1px 3px 26px 5px rgba(130, 127, 127, 0.75);
+    top:50px;
+    left:50px
+}
+.draggable{
+    height:50px;
+    width:100px;
+    border: 2px black solid;
+    position: absolute;
+}

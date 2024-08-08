@@ -1,0 +1,10 @@
+.container{
+    display: 'flex';
+    align-items: center;
+    margin-top: 16px;
+}
+.image-container{
+    height: 400px;
+    width:80%;
+    /* transition:"ease-out 3s"; */
+}

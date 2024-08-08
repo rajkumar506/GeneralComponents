@@ -1,0 +1,24 @@
+.game-conatiner{
+    max-width: calc(3*100px);
+    text-align: center;
+    margin-top: 20px;
+}
+.board-container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3,1fr);
+    /* max-width:calc(3*100px) */
+}
+.board-cell{
+    width:100px;
+    height: 100px;
+    background-color:rgb(235, 234, 230);
+    border: 2px solid rgb(161, 155, 155);
+    font-size: 36px;
+    padding-top: 50px;
+}
+.status{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}

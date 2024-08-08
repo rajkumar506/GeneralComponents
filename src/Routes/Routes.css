@@ -1,0 +1,17 @@
+.sidebar{
+    width:30%;
+    height:100vh;
+    color:rgb(18, 76, 57);
+    background-color: rgb(134, 196, 176);
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+
+}
+.main{
+    flex:1;
+    background-color: aqua;
+
+}
